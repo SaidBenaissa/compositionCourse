@@ -38,3 +38,4 @@ packages/
 # Ignore temporary files
 *.tmp
 *.temp
+.fake
