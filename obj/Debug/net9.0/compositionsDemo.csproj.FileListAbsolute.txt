@@ -1,0 +1,14 @@
+/Users/sbenaissa/workspace/compositionsDemo/bin/Debug/net9.0/compositionsDemo
+/Users/sbenaissa/workspace/compositionsDemo/bin/Debug/net9.0/compositionsDemo.deps.json
+/Users/sbenaissa/workspace/compositionsDemo/bin/Debug/net9.0/compositionsDemo.runtimeconfig.json
+/Users/sbenaissa/workspace/compositionsDemo/bin/Debug/net9.0/compositionsDemo.dll
+/Users/sbenaissa/workspace/compositionsDemo/bin/Debug/net9.0/compositionsDemo.pdb
+/Users/sbenaissa/workspace/compositionsDemo/obj/Debug/net9.0/compositionsDemo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sbenaissa/workspace/compositionsDemo/obj/Debug/net9.0/compositionsDemo.AssemblyInfoInputs.cache
+/Users/sbenaissa/workspace/compositionsDemo/obj/Debug/net9.0/compositionsDemo.AssemblyInfo.cs
+/Users/sbenaissa/workspace/compositionsDemo/obj/Debug/net9.0/compositionsDemo.csproj.CoreCompileInputs.cache
+/Users/sbenaissa/workspace/compositionsDemo/obj/Debug/net9.0/compositionsDemo.dll
+/Users/sbenaissa/workspace/compositionsDemo/obj/Debug/net9.0/refint/compositionsDemo.dll
+/Users/sbenaissa/workspace/compositionsDemo/obj/Debug/net9.0/compositionsDemo.pdb
+/Users/sbenaissa/workspace/compositionsDemo/obj/Debug/net9.0/compositionsDemo.genruntimeconfig.cache
+/Users/sbenaissa/workspace/compositionsDemo/obj/Debug/net9.0/ref/compositionsDemo.dll

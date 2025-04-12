@@ -1,0 +1,14 @@
+# Ignore NuGet packages
+*.nupkg
+*.snupkg
+
+# Ignore publish outputs
+publish/
+out/
+
+# Ignore Resharper files
+_ReSharper*/
+*.DotSettings.user
+
+# Ignore Visual Studio working files
+.vs/
